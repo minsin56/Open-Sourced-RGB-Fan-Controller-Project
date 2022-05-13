@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.5)*%
+%TF.CreationDate,2022-05-12T23:47:54-05:00*%
+%TF.ProjectId,RGBFAN,52474246-414e-42e6-9b69-6361645f7063,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.5)) date 2022-05-12 23:47:54*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,0.900000*%
+%TD*%
+%TA.AperFunction,ComponentDrill*%
+%ADD11C,1.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SATA CONNECTOR*%
+X79395080Y-77104000D03*
+D11*
+X79395080Y-113904000D03*
+M02*
